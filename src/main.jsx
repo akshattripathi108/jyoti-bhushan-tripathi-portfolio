@@ -109,7 +109,7 @@ const achievements = [
   ["100+", "DWDM Nodes"],
   ["1,500+", "LTE Sites Planned"],
 ];
-const CV_URL = "/Jyoti-Bhushan-Tripathi-Executive-CV.pdf";
+const CV_URL = "/Jyoti_Bhushan_Tripathi_Executive_Resume_Final.pdf";
 const LINKEDIN_URL = "https://www.linkedin.com/in/jyoti-bhushan-tripathi/";
 
 function LinkedInIcon() {
