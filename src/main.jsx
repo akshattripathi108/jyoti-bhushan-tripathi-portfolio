@@ -22,8 +22,8 @@ const experience = [
     current: true,
     bullets: [
       "Lead strategic Optical Fiber Transport Network planning for 4G, 5G and Enterprise services.",
-      "Planned 2,000+ km OFC rollout involving ₹100+ Cr CAPEX.",
-      "Delivered 395 Fiber POPs and planned 250 additional POPs.",
+      "Planned 6500+ km OFC rollout involving ₹230+ Cr CAPEX.",
+      "Delivered 750 Fiber POPs and planned 250 additional POPs.",
       "Led 100+ Nokia PSS DWDM nodes, CIENA NLD expansion and aggregation initiatives.",
       "Drive annual CAPEX, rollout strategy, resilient architecture, IP-ification and stakeholder coordination.",
     ],
@@ -79,7 +79,6 @@ const skills = [
   "DWDM / OTN",
   "IP/MPLS & IP-ification",
   "Microwave Networks",
-  "Traffic & Capacity Planning",
   "4G / 5G Transport",
   "Enterprise Connectivity",
   "CAPEX & Program Management",
@@ -103,13 +102,13 @@ const tech = [
 ];
 const achievements = [
   ["22+", "Years in Telecom"],
-  ["₹100+ Cr", "CAPEX Programs"],
-  ["2,000+ km", "OFC Planned"],
-  ["395", "Fiber POPs Delivered"],
+  ["₹230+ Cr", "CAPEX Programs"],
+  ["6500+ km", "OFC Planned"],
+  ["750", "Fiber POPs Delivered"],
   ["100+", "DWDM Nodes"],
   ["1,500+", "LTE Sites Planned"],
 ];
-const CV_URL = "/Jyoti_Bhushan_Tripathi_Executive_Resume_Final.pdf";
+const CV_URL = "/Jyoti_Bhushan_Tripathi_Resume.pdf";
 const LINKEDIN_URL = "https://www.linkedin.com/in/jyoti-bhushan-tripathi/";
 
 function LinkedInIcon() {
