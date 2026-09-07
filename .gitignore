@@ -9,4 +9,7 @@ pnpm-debug.log*
 .vscode/
 .idea/
 .DS_Store
+.env.local
+.env.development
+.json
 Thumbs.db
